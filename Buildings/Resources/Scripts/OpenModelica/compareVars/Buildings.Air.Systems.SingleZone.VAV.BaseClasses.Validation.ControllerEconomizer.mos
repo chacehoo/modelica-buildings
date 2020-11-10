@@ -1,9 +1,0 @@
-compareVars :=
-  {
-    "conEco.yOutAirFra",
-    "conEco.TMixSet",
-    "conEco.TMix",
-    "conEco.TOut",
-    "conEco.TRet",
-    "conEco.minOAFra"
-  };

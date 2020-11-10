@@ -1,6 +1,0 @@
-compareVars :=
-  {
-    "intGreEquThr.t",
-    "intGreEquThr.u",
-    "intGreEquThr.y"
-  };

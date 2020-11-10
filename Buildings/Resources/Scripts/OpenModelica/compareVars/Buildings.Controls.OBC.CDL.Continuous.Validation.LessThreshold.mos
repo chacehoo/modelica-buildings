@@ -1,7 +1,0 @@
-compareVars :=
-  {
-    "les.u",
-    "les.t",
-    "les.y",
-    "lesHys.y"
-  };
